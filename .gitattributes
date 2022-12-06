@@ -1,0 +1,2 @@
+api/bert_base-augmented-batch_size=128-lr=2e-5-max_gloss=6 filter=lfs diff=lfs merge=lfs -text
+api/t5_squad_v1 filter=lfs diff=lfs merge=lfs -text

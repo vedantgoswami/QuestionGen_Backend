@@ -1,0 +1,1 @@
+web: gunicorn questiongeneration.wsgi --log-file -
